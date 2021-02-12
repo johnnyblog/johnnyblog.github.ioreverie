@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
+title: 'Introducing Reverie - A ridiculously elegant Jekyll theme'
 categories: [Miscellaneous, Jekyll]
+modified: 2021-02-12T19:34:47+00:00
 ---
 
 [Reverie](https://github.com/amitmerchant1990/reverie) is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
@@ -78,10 +79,4 @@ The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be 
 
 ## Sitemap
 
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
-
-## License
-
-MIT
-
-
+The generated sitemap of your blog can be found at <https://yourgithubusern
